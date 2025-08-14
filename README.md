@@ -1,2 +1,2 @@
 # RLLib
-Some RL implementations 
+Some RL implementations using torch & gym
